@@ -42,7 +42,7 @@ shitrape52 = input("do you have any siblings under the age of 18 [Y]/[N]: ")
 
 
 if shitrape52.upper() == "Y":
-    fatnigga72()
+    danisimulator()
 elif shitrape52.upper() == "N":
     print("That is not ideal!")
 else:
